@@ -57,7 +57,7 @@ const QuoteCard: React.FC<QuoteCardProps> = ({ quote, author }) => {
           }}
         >
           <img
-            src="https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800"
+            src="../src/images/29151.jpg"
             alt="Friendship"
             className="w-full h-full object-cover"
           />

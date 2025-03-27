@@ -76,7 +76,7 @@ const WelcomePage = () => (
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5 }}
         >
-          "A true friend is the greatest of all blessings"
+          Arpita you are my greatest treasure, my forever person, and the most beautiful part of my journey
         </motion.p>
       </motion.div>
 
@@ -97,7 +97,7 @@ const WelcomePage = () => (
         }}
       >
         <img
-          src="../src/images/1713267773513.jpg"
+          src="../src/images/29153.jpg"
           alt="Celebration"
           className="w-full h-full object-cover transform transition-transform duration-300"
         />
@@ -133,7 +133,7 @@ const BirthdayPhotosPage = () => (
             whileHover={{ scale: 1.05, rotate: -5 }}
           >
             <img
-              src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=800"
+              src="../src/images/phase4.jpg"
               alt="Birthday Memory 1"
               className="w-full h-full object-cover"
             />
@@ -172,7 +172,7 @@ const BirthdayPhotosPage = () => (
             whileHover={{ scale: 1.05, rotate: 5 }}
           >
             <img
-              src="https://images.unsplash.com/photo-1523438097201-512ae7d59c44?auto=format&fit=crop&w=800"
+              src="../src/images/phase20.jpg"
               alt="Birthday Memory 2"
               className="w-full h-full object-cover"
             />
@@ -341,22 +341,22 @@ export const pages = [
   <BirthdayPhotosPage key="birthday-photos" />,
   <MemoryTimeline key="timeline" memories={[
     {
-      date: "First Day We Met",
-      title: "The Beginning of Something Special",
-      description: "Remember how we couldn't stop talking? That's when I knew we'd be best friends forever.",
-      image: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=300"
+      date: "Day I Wrote",
+      title: "The Beginning of Writing Special",
+      description: "The day I started writing about you, my notes turned into a love story—one where every word holds your smile, every page echoes your laughter, and every line is filled with the magic of you. You are my favorite chapter",
+      image: "../src/images/290.jpg"
     },
     {
       date: "Our First Adventure",
       title: "Road Trip Memories",
       description: "That spontaneous road trip where we got lost but found the best memories!",
-      image: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=300"
+      image: "../src/images/293.jpg"
     },
     {
       date: "Coffee Shop Days",
       title: "Late Night Conversations",
       description: "Those endless conversations over coffee that made time stand still.",
-      image: "https://images.unsplash.com/photo-1523438097201-512ae7d59c44?auto=format&fit=crop&w=300"
+      image: "../src/images/295.jpg"
     }
   ]} />,
   <div key="photos" className="w-full">

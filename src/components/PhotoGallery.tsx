@@ -3,15 +3,15 @@ import { motion } from 'framer-motion';
 
 const PhotoGallery: React.FC = () => {
   const photos = [
-    "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1523438097201-512ae7d59c44?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1516474076198-6f3c164c6088?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1516474076198-6f3c164c6088?auto=format&fit=crop&w=300",
-    "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=300",
+    "../src/images/291.jpg",
+    "../src/images/29154.jpg",
+    "../src/images/29157.jpg",
+    "../src/images/291519.jpg",
+    "../src/images/291521.jpg",
+    "../src/images/291522.jpg",
+    "../src/images/291523.jpg",
+    "../src/images/291512.jpg",
+    "../src/images/291513.jpg",
   ];
 
   return (

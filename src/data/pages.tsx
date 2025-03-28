@@ -366,14 +366,14 @@ export const pages = [
     }
   ]} />,
   <div key="photos" className="w-full">
-    <h2 className="text-3xl font-bold text-red-500 text-center mb-8 animate-float">Our Beautiful Memories</h2>
+    <h2 className="text-3xl font-bold text-red-500 text-center mb-8 animate-float">Captured Forever</h2>
     <PhotoGallery />
   </div>,
   <EnhancedShayariPage key="shayari" />,
   <QuoteCard
     key="quote1"
-    quote="Some people arrive and make such a beautiful impact on your life, you can barely remember what life was like without them."
-    author="Anna Taylor"
+    quote="💖Arpita your smile is the most precious thing in my world. Every time I see it, my heart feels lighter, my worries disappear, and everything suddenly makes sense. It’s like a ray of sunshine that warms my soul and fills my life with happiness. I could spend forever just watching you smile, because in that moment, I know that everything is right."
+    author="Arpita Smile Please😊"
   />,
   <FinalPage key="final" />
 ];

@@ -223,20 +223,26 @@ const EnhancedShayariPage = () => (
           transition={{ duration: 3, repeat: Infinity }}
         >
           <p className="text-2xl text-gray-800 leading-relaxed">
-            तेरी दोस्ती है मेरी ज़िंदगी का सहारा,<br/>
-            हर खुशी में तू है, हर गम में तू है प्यारा।<br/>
-            जन्मदिन पर तेरे, बस यही दुआ है मेरी,<br/>
-            खुशियाँ तेरी हों बेशुमार, ज़िंदगी तेरी हो गुलज़ार।<br/><br/>
+          suno janmdin mubarak ho ,suno.. janmdin mubarak ho,<br/>
+          bhot khubsurat ho tum bhot khubsurat tum raho,<br/>
+          harr kamyabi par pohocho, harr manjil par pohocho,<br/>
+          jaha logon ko saalon lage pohochne me,<br/>
+          tum jald waha pohocho, <br/><br/>
 
-            हर सपना तेरा हो पूरा, हर राह तेरी हो रोशन,<br/>
-            तेरी मुस्कान से ही तो है, मेरी दुनिया का यह गुलशन।<br/>
-            दोस्ती हमारी रहे युँ ही सदा,<br/>
-            जैसे चाँद के साथ है तारों का मेला।<br/><br/>
+          me accha hu yeah bura hu nhi janta,<br/>
+          me accha hu yeah bura hu nhi janta,<br/>
+          dil ki ek baat batadu,<br/>
+          dil tumhare alawa kisi ko apna nhi manta,<br/><br/>
 
-            मुबारक हो तुझे यह खास दिन,<br/>
-            तेरी खुशी में है मेरी खुशी का चिन्ह।<br/>
-            रहे तू हमेशा खुश ऐसे ही यार,<br/>
-            Happy Birthday to you, मेरे प्यारे यार! ✨
+          tum sath raho tum khaas raho,<br/>
+          tum sath raho tum khaas raho,<br/>
+          ek saal or badh gayi hai umar tumhari,<br/>
+          harr badhti umar me tum mere paas raho,<br/><br/>
+
+          koi khaas toh nhi hai jo tohfa me tumhe de paunga, <br/>
+          par wada hai harr mushkil me yeah sath nibhaunga,<br/>
+          ek or saal tumhare kadmo me mubarak,<br/>
+          ACCHA SUNOO... JANMDIN MUBARAK ✨
           </p>
         </motion.div>
       </motion.div>
@@ -347,15 +353,15 @@ export const pages = [
       image: "../src/images/290.jpg"
     },
     {
-      date: "Our First Adventure",
-      title: "Road Trip Memories",
-      description: "That spontaneous road trip where we got lost but found the best memories!",
+      date: "Unforgettable Chat",
+      title: "Loved Theme by You",
+      description: "Even though it was in the past, this theme will always be a part of my story, a silent yet beautiful memory I’ll never forget!",
       image: "../src/images/293.jpg"
     },
     {
-      date: "Coffee Shop Days",
-      title: "Late Night Conversations",
-      description: "Those endless conversations over coffee that made time stand still.",
+      date: "Day with You",
+      title: "Visit I can't forget ",
+      description: "Some moments in life don’t just pass by—they stay. That trip is one of them. It’s a part of me now, a chapter of my heart that will never close.",
       image: "../src/images/295.jpg"
     }
   ]} />,
